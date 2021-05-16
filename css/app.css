@@ -1,0 +1,33 @@
+body {
+   margin: 0;
+   padding: 0;
+}
+
+header {
+   margin-top: 40px;
+   margin-bottom: 5px;
+}
+
+header p {
+   margin: 0;
+   font-size: 14px;
+   text-align: center;
+}
+
+
+.logo-container {
+   margin: 0 auto;
+   color: transparent;
+   overflow: hidden;
+}
+
+.logos {
+   background-image: url(https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-d7502d35.svg);
+   background-repeat: no-repeat;
+}
+
+.logo-wikipedia {
+   background-position: 0 -254px;
+   width: 176px;
+   height: 32px;
+}
