@@ -14,6 +14,23 @@ header p {
    text-align: center;
 }
 
+section div {
+   background-image: url("https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png");
+   background-repeat: no-repeat;
+   position: absolute;
+}
+
+section div .language-button{
+   position relative;
+   font-weight: bold;
+   color: #36c;
+   background: none;
+}
+
+section div span {
+   font-weight: normal;
+   color: #c54595d
+}
 
 .logo-container {
    margin: 0 auto;
